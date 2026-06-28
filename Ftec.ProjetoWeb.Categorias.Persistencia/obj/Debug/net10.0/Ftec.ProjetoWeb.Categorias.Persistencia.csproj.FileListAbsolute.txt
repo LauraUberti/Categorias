@@ -1,0 +1,15 @@
+C:\Users\laura.uberti\source\repos\Ftec.ProjetoWeb.Categorias\Ftec.ProjetoWeb.Categorias.Persistencia\bin\Debug\net10.0\Ftec.ProjetoWeb.Categorias.Persistencia.deps.json
+C:\Users\laura.uberti\source\repos\Ftec.ProjetoWeb.Categorias\Ftec.ProjetoWeb.Categorias.Persistencia\bin\Debug\net10.0\Ftec.ProjetoWeb.Categorias.Persistencia.dll
+C:\Users\laura.uberti\source\repos\Ftec.ProjetoWeb.Categorias\Ftec.ProjetoWeb.Categorias.Persistencia\bin\Debug\net10.0\Ftec.ProjetoWeb.Categorias.Persistencia.pdb
+C:\Users\laura.uberti\source\repos\Ftec.ProjetoWeb.Categorias\Ftec.ProjetoWeb.Categorias.Persistencia\bin\Debug\net10.0\Ftec.ProjetoWeb.Categorias.Dominio.dll
+C:\Users\laura.uberti\source\repos\Ftec.ProjetoWeb.Categorias\Ftec.ProjetoWeb.Categorias.Persistencia\bin\Debug\net10.0\Ftec.ProjetoWeb.Categorias.Dominio.pdb
+C:\Users\laura.uberti\source\repos\Ftec.ProjetoWeb.Categorias\Ftec.ProjetoWeb.Categorias.Persistencia\obj\Debug\net10.0\Ftec.ProjetoWeb.Categorias.Persistencia.csproj.AssemblyReference.cache
+C:\Users\laura.uberti\source\repos\Ftec.ProjetoWeb.Categorias\Ftec.ProjetoWeb.Categorias.Persistencia\obj\Debug\net10.0\Ftec.ProjetoWeb.Categorias.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura.uberti\source\repos\Ftec.ProjetoWeb.Categorias\Ftec.ProjetoWeb.Categorias.Persistencia\obj\Debug\net10.0\Ftec.ProjetoWeb.Categorias.Persistencia.AssemblyInfoInputs.cache
+C:\Users\laura.uberti\source\repos\Ftec.ProjetoWeb.Categorias\Ftec.ProjetoWeb.Categorias.Persistencia\obj\Debug\net10.0\Ftec.ProjetoWeb.Categorias.Persistencia.AssemblyInfo.cs
+C:\Users\laura.uberti\source\repos\Ftec.ProjetoWeb.Categorias\Ftec.ProjetoWeb.Categorias.Persistencia\obj\Debug\net10.0\Ftec.ProjetoWeb.Categorias.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\laura.uberti\source\repos\Ftec.ProjetoWeb.Categorias\Ftec.ProjetoWeb.Categorias.Persistencia\obj\Debug\net10.0\Ftec.Pro.3A11206C.Up2Date
+C:\Users\laura.uberti\source\repos\Ftec.ProjetoWeb.Categorias\Ftec.ProjetoWeb.Categorias.Persistencia\obj\Debug\net10.0\Ftec.ProjetoWeb.Categorias.Persistencia.dll
+C:\Users\laura.uberti\source\repos\Ftec.ProjetoWeb.Categorias\Ftec.ProjetoWeb.Categorias.Persistencia\obj\Debug\net10.0\refint\Ftec.ProjetoWeb.Categorias.Persistencia.dll
+C:\Users\laura.uberti\source\repos\Ftec.ProjetoWeb.Categorias\Ftec.ProjetoWeb.Categorias.Persistencia\obj\Debug\net10.0\Ftec.ProjetoWeb.Categorias.Persistencia.pdb
+C:\Users\laura.uberti\source\repos\Ftec.ProjetoWeb.Categorias\Ftec.ProjetoWeb.Categorias.Persistencia\obj\Debug\net10.0\ref\Ftec.ProjetoWeb.Categorias.Persistencia.dll

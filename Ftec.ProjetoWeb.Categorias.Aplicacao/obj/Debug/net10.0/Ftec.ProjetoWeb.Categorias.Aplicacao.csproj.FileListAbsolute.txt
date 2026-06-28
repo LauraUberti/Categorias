@@ -1,0 +1,15 @@
+C:\Users\laura.uberti\source\repos\Ftec.ProjetoWeb.Categorias\Ftec.ProjetoWeb.Categorias.Aplicacao\bin\Debug\net10.0\Ftec.ProjetoWeb.Categorias.Aplicacao.deps.json
+C:\Users\laura.uberti\source\repos\Ftec.ProjetoWeb.Categorias\Ftec.ProjetoWeb.Categorias.Aplicacao\bin\Debug\net10.0\Ftec.ProjetoWeb.Categorias.Aplicacao.dll
+C:\Users\laura.uberti\source\repos\Ftec.ProjetoWeb.Categorias\Ftec.ProjetoWeb.Categorias.Aplicacao\bin\Debug\net10.0\Ftec.ProjetoWeb.Categorias.Aplicacao.pdb
+C:\Users\laura.uberti\source\repos\Ftec.ProjetoWeb.Categorias\Ftec.ProjetoWeb.Categorias.Aplicacao\bin\Debug\net10.0\Ftec.ProjetoWeb.Categorias.Dominio.dll
+C:\Users\laura.uberti\source\repos\Ftec.ProjetoWeb.Categorias\Ftec.ProjetoWeb.Categorias.Aplicacao\bin\Debug\net10.0\Ftec.ProjetoWeb.Categorias.Dominio.pdb
+C:\Users\laura.uberti\source\repos\Ftec.ProjetoWeb.Categorias\Ftec.ProjetoWeb.Categorias.Aplicacao\obj\Debug\net10.0\Ftec.ProjetoWeb.Categorias.Aplicacao.csproj.AssemblyReference.cache
+C:\Users\laura.uberti\source\repos\Ftec.ProjetoWeb.Categorias\Ftec.ProjetoWeb.Categorias.Aplicacao\obj\Debug\net10.0\Ftec.ProjetoWeb.Categorias.Aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura.uberti\source\repos\Ftec.ProjetoWeb.Categorias\Ftec.ProjetoWeb.Categorias.Aplicacao\obj\Debug\net10.0\Ftec.ProjetoWeb.Categorias.Aplicacao.AssemblyInfoInputs.cache
+C:\Users\laura.uberti\source\repos\Ftec.ProjetoWeb.Categorias\Ftec.ProjetoWeb.Categorias.Aplicacao\obj\Debug\net10.0\Ftec.ProjetoWeb.Categorias.Aplicacao.AssemblyInfo.cs
+C:\Users\laura.uberti\source\repos\Ftec.ProjetoWeb.Categorias\Ftec.ProjetoWeb.Categorias.Aplicacao\obj\Debug\net10.0\Ftec.ProjetoWeb.Categorias.Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\laura.uberti\source\repos\Ftec.ProjetoWeb.Categorias\Ftec.ProjetoWeb.Categorias.Aplicacao\obj\Debug\net10.0\Ftec.Pro.77B8C55C.Up2Date
+C:\Users\laura.uberti\source\repos\Ftec.ProjetoWeb.Categorias\Ftec.ProjetoWeb.Categorias.Aplicacao\obj\Debug\net10.0\Ftec.ProjetoWeb.Categorias.Aplicacao.dll
+C:\Users\laura.uberti\source\repos\Ftec.ProjetoWeb.Categorias\Ftec.ProjetoWeb.Categorias.Aplicacao\obj\Debug\net10.0\refint\Ftec.ProjetoWeb.Categorias.Aplicacao.dll
+C:\Users\laura.uberti\source\repos\Ftec.ProjetoWeb.Categorias\Ftec.ProjetoWeb.Categorias.Aplicacao\obj\Debug\net10.0\Ftec.ProjetoWeb.Categorias.Aplicacao.pdb
+C:\Users\laura.uberti\source\repos\Ftec.ProjetoWeb.Categorias\Ftec.ProjetoWeb.Categorias.Aplicacao\obj\Debug\net10.0\ref\Ftec.ProjetoWeb.Categorias.Aplicacao.dll
