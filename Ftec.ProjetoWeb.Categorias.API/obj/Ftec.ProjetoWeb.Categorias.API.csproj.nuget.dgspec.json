@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\laura.uberti\\source\\repos\\Ftec.ProjetoWeb.Categorias\\Ftec.ProjetoWeb.Categorias.API\\Ftec.ProjetoWeb.Categorias.API.csproj": {}
+    "C:\\Users\\Pichau\\Documents\\GitHub\\Categorias\\Ftec.ProjetoWeb.Categorias.API\\Ftec.ProjetoWeb.Categorias.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\laura.uberti\\source\\repos\\Ftec.ProjetoWeb.Categorias\\Ftec.ProjetoWeb.Categorias.API\\Ftec.ProjetoWeb.Categorias.API.csproj": {
+    "C:\\Users\\Pichau\\Documents\\GitHub\\Categorias\\Ftec.ProjetoWeb.Categorias.API\\Ftec.ProjetoWeb.Categorias.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\laura.uberti\\source\\repos\\Ftec.ProjetoWeb.Categorias\\Ftec.ProjetoWeb.Categorias.API\\Ftec.ProjetoWeb.Categorias.API.csproj",
+        "projectUniqueName": "C:\\Users\\Pichau\\Documents\\GitHub\\Categorias\\Ftec.ProjetoWeb.Categorias.API\\Ftec.ProjetoWeb.Categorias.API.csproj",
         "projectName": "Ftec.ProjetoWeb.Categorias.API",
-        "projectPath": "C:\\Users\\laura.uberti\\source\\repos\\Ftec.ProjetoWeb.Categorias\\Ftec.ProjetoWeb.Categorias.API\\Ftec.ProjetoWeb.Categorias.API.csproj",
-        "packagesPath": "C:\\Users\\laura.uberti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\laura.uberti\\source\\repos\\Ftec.ProjetoWeb.Categorias\\Ftec.ProjetoWeb.Categorias.API\\obj\\",
+        "projectPath": "C:\\Users\\Pichau\\Documents\\GitHub\\Categorias\\Ftec.ProjetoWeb.Categorias.API\\Ftec.ProjetoWeb.Categorias.API.csproj",
+        "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pichau\\Documents\\GitHub\\Categorias\\Ftec.ProjetoWeb.Categorias.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\laura.uberti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,14 +33,14 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\laura.uberti\\source\\repos\\Ftec.ProjetoWeb.Categorias\\Ftec.ProjetoWeb.Categorias.Aplicacao\\Ftec.ProjetoWeb.Categorias.Aplicacao.csproj": {
-                "projectPath": "C:\\Users\\laura.uberti\\source\\repos\\Ftec.ProjetoWeb.Categorias\\Ftec.ProjetoWeb.Categorias.Aplicacao\\Ftec.ProjetoWeb.Categorias.Aplicacao.csproj"
+              "C:\\Users\\Pichau\\Documents\\GitHub\\Categorias\\Ftec.ProjetoWeb.Categorias.Aplicacao\\Ftec.ProjetoWeb.Categorias.Aplicacao.csproj": {
+                "projectPath": "C:\\Users\\Pichau\\Documents\\GitHub\\Categorias\\Ftec.ProjetoWeb.Categorias.Aplicacao\\Ftec.ProjetoWeb.Categorias.Aplicacao.csproj"
               },
-              "C:\\Users\\laura.uberti\\source\\repos\\Ftec.ProjetoWeb.Categorias\\Ftec.ProjetoWeb.Categorias.Dominio\\Ftec.ProjetoWeb.Categorias.Dominio.csproj": {
-                "projectPath": "C:\\Users\\laura.uberti\\source\\repos\\Ftec.ProjetoWeb.Categorias\\Ftec.ProjetoWeb.Categorias.Dominio\\Ftec.ProjetoWeb.Categorias.Dominio.csproj"
+              "C:\\Users\\Pichau\\Documents\\GitHub\\Categorias\\Ftec.ProjetoWeb.Categorias.Dominio\\Ftec.ProjetoWeb.Categorias.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Pichau\\Documents\\GitHub\\Categorias\\Ftec.ProjetoWeb.Categorias.Dominio\\Ftec.ProjetoWeb.Categorias.Dominio.csproj"
               },
-              "C:\\Users\\laura.uberti\\source\\repos\\Ftec.ProjetoWeb.Categorias\\Ftec.ProjetoWeb.Categorias.Persistencia\\Ftec.ProjetoWeb.Categorias.Persistencia.csproj": {
-                "projectPath": "C:\\Users\\laura.uberti\\source\\repos\\Ftec.ProjetoWeb.Categorias\\Ftec.ProjetoWeb.Categorias.Persistencia\\Ftec.ProjetoWeb.Categorias.Persistencia.csproj"
+              "C:\\Users\\Pichau\\Documents\\GitHub\\Categorias\\Ftec.ProjetoWeb.Categorias.Persistencia\\Ftec.ProjetoWeb.Categorias.Persistencia.csproj": {
+                "projectPath": "C:\\Users\\Pichau\\Documents\\GitHub\\Categorias\\Ftec.ProjetoWeb.Categorias.Persistencia\\Ftec.ProjetoWeb.Categorias.Persistencia.csproj"
               }
             }
           }
@@ -515,20 +514,20 @@
         }
       }
     },
-    "C:\\Users\\laura.uberti\\source\\repos\\Ftec.ProjetoWeb.Categorias\\Ftec.ProjetoWeb.Categorias.Aplicacao\\Ftec.ProjetoWeb.Categorias.Aplicacao.csproj": {
+    "C:\\Users\\Pichau\\Documents\\GitHub\\Categorias\\Ftec.ProjetoWeb.Categorias.Aplicacao\\Ftec.ProjetoWeb.Categorias.Aplicacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\laura.uberti\\source\\repos\\Ftec.ProjetoWeb.Categorias\\Ftec.ProjetoWeb.Categorias.Aplicacao\\Ftec.ProjetoWeb.Categorias.Aplicacao.csproj",
+        "projectUniqueName": "C:\\Users\\Pichau\\Documents\\GitHub\\Categorias\\Ftec.ProjetoWeb.Categorias.Aplicacao\\Ftec.ProjetoWeb.Categorias.Aplicacao.csproj",
         "projectName": "Ftec.ProjetoWeb.Categorias.Aplicacao",
-        "projectPath": "C:\\Users\\laura.uberti\\source\\repos\\Ftec.ProjetoWeb.Categorias\\Ftec.ProjetoWeb.Categorias.Aplicacao\\Ftec.ProjetoWeb.Categorias.Aplicacao.csproj",
-        "packagesPath": "C:\\Users\\laura.uberti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\laura.uberti\\source\\repos\\Ftec.ProjetoWeb.Categorias\\Ftec.ProjetoWeb.Categorias.Aplicacao\\obj\\",
+        "projectPath": "C:\\Users\\Pichau\\Documents\\GitHub\\Categorias\\Ftec.ProjetoWeb.Categorias.Aplicacao\\Ftec.ProjetoWeb.Categorias.Aplicacao.csproj",
+        "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pichau\\Documents\\GitHub\\Categorias\\Ftec.ProjetoWeb.Categorias.Aplicacao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\laura.uberti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -537,7 +536,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -545,8 +543,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\laura.uberti\\source\\repos\\Ftec.ProjetoWeb.Categorias\\Ftec.ProjetoWeb.Categorias.Dominio\\Ftec.ProjetoWeb.Categorias.Dominio.csproj": {
-                "projectPath": "C:\\Users\\laura.uberti\\source\\repos\\Ftec.ProjetoWeb.Categorias\\Ftec.ProjetoWeb.Categorias.Dominio\\Ftec.ProjetoWeb.Categorias.Dominio.csproj"
+              "C:\\Users\\Pichau\\Documents\\GitHub\\Categorias\\Ftec.ProjetoWeb.Categorias.Dominio\\Ftec.ProjetoWeb.Categorias.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Pichau\\Documents\\GitHub\\Categorias\\Ftec.ProjetoWeb.Categorias.Dominio\\Ftec.ProjetoWeb.Categorias.Dominio.csproj"
               }
             }
           }
@@ -861,20 +859,20 @@
         }
       }
     },
-    "C:\\Users\\laura.uberti\\source\\repos\\Ftec.ProjetoWeb.Categorias\\Ftec.ProjetoWeb.Categorias.Dominio\\Ftec.ProjetoWeb.Categorias.Dominio.csproj": {
+    "C:\\Users\\Pichau\\Documents\\GitHub\\Categorias\\Ftec.ProjetoWeb.Categorias.Dominio\\Ftec.ProjetoWeb.Categorias.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\laura.uberti\\source\\repos\\Ftec.ProjetoWeb.Categorias\\Ftec.ProjetoWeb.Categorias.Dominio\\Ftec.ProjetoWeb.Categorias.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\Pichau\\Documents\\GitHub\\Categorias\\Ftec.ProjetoWeb.Categorias.Dominio\\Ftec.ProjetoWeb.Categorias.Dominio.csproj",
         "projectName": "Ftec.ProjetoWeb.Categorias.Dominio",
-        "projectPath": "C:\\Users\\laura.uberti\\source\\repos\\Ftec.ProjetoWeb.Categorias\\Ftec.ProjetoWeb.Categorias.Dominio\\Ftec.ProjetoWeb.Categorias.Dominio.csproj",
-        "packagesPath": "C:\\Users\\laura.uberti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\laura.uberti\\source\\repos\\Ftec.ProjetoWeb.Categorias\\Ftec.ProjetoWeb.Categorias.Dominio\\obj\\",
+        "projectPath": "C:\\Users\\Pichau\\Documents\\GitHub\\Categorias\\Ftec.ProjetoWeb.Categorias.Dominio\\Ftec.ProjetoWeb.Categorias.Dominio.csproj",
+        "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pichau\\Documents\\GitHub\\Categorias\\Ftec.ProjetoWeb.Categorias.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\laura.uberti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -883,7 +881,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -1203,20 +1200,20 @@
         }
       }
     },
-    "C:\\Users\\laura.uberti\\source\\repos\\Ftec.ProjetoWeb.Categorias\\Ftec.ProjetoWeb.Categorias.Persistencia\\Ftec.ProjetoWeb.Categorias.Persistencia.csproj": {
+    "C:\\Users\\Pichau\\Documents\\GitHub\\Categorias\\Ftec.ProjetoWeb.Categorias.Persistencia\\Ftec.ProjetoWeb.Categorias.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\laura.uberti\\source\\repos\\Ftec.ProjetoWeb.Categorias\\Ftec.ProjetoWeb.Categorias.Persistencia\\Ftec.ProjetoWeb.Categorias.Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\Pichau\\Documents\\GitHub\\Categorias\\Ftec.ProjetoWeb.Categorias.Persistencia\\Ftec.ProjetoWeb.Categorias.Persistencia.csproj",
         "projectName": "Ftec.ProjetoWeb.Categorias.Persistencia",
-        "projectPath": "C:\\Users\\laura.uberti\\source\\repos\\Ftec.ProjetoWeb.Categorias\\Ftec.ProjetoWeb.Categorias.Persistencia\\Ftec.ProjetoWeb.Categorias.Persistencia.csproj",
-        "packagesPath": "C:\\Users\\laura.uberti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\laura.uberti\\source\\repos\\Ftec.ProjetoWeb.Categorias\\Ftec.ProjetoWeb.Categorias.Persistencia\\obj\\",
+        "projectPath": "C:\\Users\\Pichau\\Documents\\GitHub\\Categorias\\Ftec.ProjetoWeb.Categorias.Persistencia\\Ftec.ProjetoWeb.Categorias.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pichau\\Documents\\GitHub\\Categorias\\Ftec.ProjetoWeb.Categorias.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\laura.uberti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1225,7 +1222,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -1233,8 +1229,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\laura.uberti\\source\\repos\\Ftec.ProjetoWeb.Categorias\\Ftec.ProjetoWeb.Categorias.Dominio\\Ftec.ProjetoWeb.Categorias.Dominio.csproj": {
-                "projectPath": "C:\\Users\\laura.uberti\\source\\repos\\Ftec.ProjetoWeb.Categorias\\Ftec.ProjetoWeb.Categorias.Dominio\\Ftec.ProjetoWeb.Categorias.Dominio.csproj"
+              "C:\\Users\\Pichau\\Documents\\GitHub\\Categorias\\Ftec.ProjetoWeb.Categorias.Dominio\\Ftec.ProjetoWeb.Categorias.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Pichau\\Documents\\GitHub\\Categorias\\Ftec.ProjetoWeb.Categorias.Dominio\\Ftec.ProjetoWeb.Categorias.Dominio.csproj"
               }
             }
           }

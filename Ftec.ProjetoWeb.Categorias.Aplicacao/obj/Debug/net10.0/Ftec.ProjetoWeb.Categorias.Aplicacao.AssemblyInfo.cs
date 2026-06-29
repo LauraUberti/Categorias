@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ftec.ProjetoWeb.Categorias.Aplicacao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07ee65e9aae09668f47ab6dc750f1dec7003fcbe")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ftec.ProjetoWeb.Categorias.Aplicacao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ftec.ProjetoWeb.Categorias.Aplicacao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
