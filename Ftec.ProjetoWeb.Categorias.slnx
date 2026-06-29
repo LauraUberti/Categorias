@@ -1,6 +1,0 @@
-<Solution>
-  <Project Path="Ftec.ProjetoWeb.Categorias.API/Ftec.ProjetoWeb.Categorias.API.csproj" />
-  <Project Path="Ftec.ProjetoWeb.Categorias.Aplicacao/Ftec.ProjetoWeb.Categorias.Aplicacao.csproj" />
-  <Project Path="Ftec.ProjetoWeb.Categorias.Dominio/Ftec.ProjetoWeb.Categorias.Dominio.csproj" />
-  <Project Path="Ftec.ProjetoWeb.Categorias.Persistencia/Ftec.ProjetoWeb.Categorias.Persistencia.csproj" />
-</Solution>
